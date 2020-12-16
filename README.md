@@ -1,4 +1,4 @@
-# javaScript_homework11
+# javaScript_analysis
 
 Level 1: Automatic Table and Date Search (Required)
 https://abasaltr.github.io/javaScript_homework11/UFO_level1/index.html
